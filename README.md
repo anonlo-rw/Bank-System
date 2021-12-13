@@ -5,9 +5,6 @@ Online Banking System that gives users the ability to Create, Update and Delete 
 - In the sql/create_database.sql file, make sure to run it to create the actual database where user data will be stored.
 - In the php/db_connect.php file, make sure to change the set variables to your corresponding MySQL credentials in order to establish a connection.
 
-# Contributing
-- Feel free to submit any possible bugs for fixing
-
 ![](images/login.png)
 ![](images/registration.png)
 ![](images/home.png)
