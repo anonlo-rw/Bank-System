@@ -6,4 +6,4 @@ Online Banking System that gives users the ability to Create, Update and Delete 
 ![](images/home.png)
 ![](images/send.png)
 ![](images/account.png)
-![](images/password.png)
+![](images/changepassword.png)
