@@ -6,7 +6,7 @@ Online Banking System that gives users the ability to Create, Update and Delete 
 - In the php/db_connect.php file, make sure to change the set variables to your corresponding MySQL credentials in order to establish a connection.
 
 # Contributing
-- Feel free to submit any possible bugs as I'll be glad to respond to anyone and help with whatever's needed to help fix and improve this program.
+- Feel free to submit any possible bugs for fixing
 
 ![](images/login.png)
 ![](images/registration.png)
